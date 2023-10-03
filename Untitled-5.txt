@@ -1,0 +1,6 @@
+void main() {
+  print('Hola mundo');
+}
+
+class MyApp extends StatelessWidget {
+}

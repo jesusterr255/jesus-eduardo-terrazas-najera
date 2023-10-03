@@ -1,0 +1,13 @@
+implementation class
+Holamundo
+
+int
+  main MutableArray args
+{
+  [[[stdio err] print "Hola mundo"] nl];
+}
+end;
+
+implementation instance
+Holamundo
+end;

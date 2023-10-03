@@ -1,0 +1,1 @@
+SELECT '¡Hola mundo!' AS message;
